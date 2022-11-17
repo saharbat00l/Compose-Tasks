@@ -100,10 +100,6 @@ fun InputTextField(
 }
 
 
-@Composable
-fun GradientButton(){
-
-}
 
 @Composable
 fun GradientButton(
